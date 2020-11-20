@@ -4,6 +4,6 @@
 
 ![visitors2](http://antzuhl.cn:4000/get/@pure-peace.readme)
 
-![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=dark)
+<center>![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=dark)</center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pure-peace&layout=compact&card_width=445)](https://github.com/pure-peace/pure-peace)
+<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pure-peace&layout=compact&card_width=445)](https://github.com/pure-peace/pure-peace)</center>
