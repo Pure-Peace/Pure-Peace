@@ -6,6 +6,6 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=vue)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=purepeace)](https://github.com/pure-peace/pure-peace)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PurePeace)](https://github.com/pure-peace/pure-peace)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pure-peace&layout=compact&card_width=445)](https://github.com/pure-peace/pure-peace)
