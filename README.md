@@ -3,9 +3,13 @@
 [![visitors2](http://antzuhl.cn:4000/get/@pure-peace.readme)](https://github.com/pure-peace/pure-peace)
 
 
-### I'm PurePeace
+### I'm PurePeace <3
 
-#### Student
+#### Student now
+
+#### [osu!player](https://osu.ppy.sh/users/5084172) <- Userpage
+
+
 
 [![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats)](https://github.com/pure-peace/pure-peace)
 
