@@ -3,7 +3,7 @@
 [![visitors2](http://antzuhl.cn:4000/get/@pure-peace.readme)](https://github.com/pure-peace/pure-peace)
 
 
-## I'm PurePeace <3
+## 🎉 I'm PurePeace <3
 - #### 🍀 Student
 - #### 🍓 [osu!player](https://osu.ppy.sh/users/5084172) <- Userpage
 
