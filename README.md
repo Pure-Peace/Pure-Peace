@@ -18,6 +18,7 @@
 ![golang](https://img.shields.io/badge/-golang-red?style=for-the-badge)
 ![LESS](https://img.shields.io/badge/-LESS-red?style=for-the-badge)
 ![html](https://img.shields.io/badge/-html-red?style=for-the-badge)
+![sql](https://img.shields.io/badge/-sql-red?style=for-the-badge)
 ![c#](https://img.shields.io/badge/-c%23-inactive?style=for-the-badge)
 ![c++](https://img.shields.io/badge/-c%2B%2B-inactive?style=for-the-badge)
 
@@ -44,6 +45,10 @@
 ![mysql](https://img.shields.io/badge/-mysql-blueviolet?style=for-the-badge)
 ![postgresql](https://img.shields.io/badge/-postgresql-blueviolet?style=for-the-badge)
 ![redis](https://img.shields.io/badge/-redis-blueviolet?style=for-the-badge)
+
+![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
+![centos](https://img.shields.io/badge/-centos-orange?style=for-the-badge)
+![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge)
 
 [![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats)](https://github.com/pure-peace/pure-peace)
 
