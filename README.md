@@ -2,6 +2,7 @@
 
 [![visitors2](http://antzuhl.cn:4000/get/@pure-peace.readme)](https://github.com/pure-peace/pure-peace)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pure-peace&repo=peace)](https://github.com/pure-peace/peace)
 
 ## 🎉 I'm PurePeace <3
 - #### 🍀 Student
@@ -50,7 +51,7 @@
 ![postgresql](https://img.shields.io/badge/-postgresql-blueviolet?style=for-the-badge)
 ![redis](https://img.shields.io/badge/-redis-blueviolet?style=for-the-badge)
 
-[![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats)](https://github.com/pure-peace/pure-peace)
+[![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)](https://github.com/pure-peace/pure-peace)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pure-peace&layout=compact&card_width=445&custom_title=😊%20Used%20Languages&langs_count=10)](https://github.com/pure-peace/pure-peace)
 
