@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Pure-Peace/Pure-Peace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pure-peace.pure-peace)
 
 Here are some ideas to get you started:
 
