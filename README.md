@@ -10,6 +10,10 @@
 
 
 ## ⛏️ Stacks
+![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
+![centos](https://img.shields.io/badge/-centos-orange?style=for-the-badge)
+![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge)
+
 
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-javascript-red?style=for-the-badge)
@@ -45,10 +49,6 @@
 ![mysql](https://img.shields.io/badge/-mysql-blueviolet?style=for-the-badge)
 ![postgresql](https://img.shields.io/badge/-postgresql-blueviolet?style=for-the-badge)
 ![redis](https://img.shields.io/badge/-redis-blueviolet?style=for-the-badge)
-
-![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
-![centos](https://img.shields.io/badge/-centos-orange?style=for-the-badge)
-![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge)
 
 [![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats)](https://github.com/pure-peace/pure-peace)
 
