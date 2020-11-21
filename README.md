@@ -14,6 +14,7 @@
 ![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
 ![centos](https://img.shields.io/badge/-centos-orange?style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge)
+![deepin](https://img.shields.io/badge/-deepin-orange?style=for-the-badge)
 
 
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
@@ -37,6 +38,7 @@
 ![actix-web](https://img.shields.io/badge/-actix%20web-blue?style=for-the-badge)
 ![laravel](https://img.shields.io/badge/-laravel-blue?style=for-the-badge)
 ![qt-quick](https://img.shields.io/badge/-qt%20quick-inactive?style=for-the-badge)
+![uni-app](https://img.shields.io/badge/-uniapp-blue?style=for-the-badge)
 
 ![vscode](https://img.shields.io/badge/-vscode-brightgreen?style=for-the-badge)
 ![vim](https://img.shields.io/badge/-vim-brightgreen?style=for-the-badge)
