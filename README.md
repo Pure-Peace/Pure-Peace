@@ -1,7 +1,5 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pure-peace.pure-peace)
 
-[![visitors2](http://antzuhl.cn:4000/get/@pure-peace.readme)](https://github.com/pure-peace/pure-peace)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pure-peace&repo=peace)](https://github.com/pure-peace/peace)
 
 ## 🎉 I'm PurePeace <3
