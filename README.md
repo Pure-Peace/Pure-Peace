@@ -46,6 +46,7 @@
 ![navicat](https://img.shields.io/badge/-navicat-brightgreen?style=for-the-badge)
 ![fiddler](https://img.shields.io/badge/-fiddler-brightgreen?style=for-the-badge)
 ![reflector](https://img.shields.io/badge/-reflector-brightgreen?style=for-the-badge)
+![dnspy](https://img.shields.io/badge/-dnspy-brightgreen?style=for-the-badge)
 
 ![mysql](https://img.shields.io/badge/-mysql-blueviolet?style=for-the-badge)
 ![postgresql](https://img.shields.io/badge/-postgresql-blueviolet?style=for-the-badge)
