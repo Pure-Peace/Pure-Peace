@@ -34,6 +34,7 @@
 ![flask](https://img.shields.io/badge/-flask-blue?style=for-the-badge)
 ![fastapi](https://img.shields.io/badge/-fastapi-blue?style=for-the-badge)
 ![actix-web](https://img.shields.io/badge/-actix%20web-blue?style=for-the-badge)
+![ntex](https://img.shields.io/badge/-ntex-blue?style=for-the-badge)
 ![laravel](https://img.shields.io/badge/-laravel-blue?style=for-the-badge)
 ![qt-quick](https://img.shields.io/badge/-qt%20quick-inactive?style=for-the-badge)
 ![uni-app](https://img.shields.io/badge/-uniapp-blue?style=for-the-badge)
