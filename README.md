@@ -15,9 +15,11 @@
 ![deepin](https://img.shields.io/badge/-deepin-orange?style=for-the-badge)
 
 
+![rust](https://img.shields.io/badge/-rust-red?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-javascript-red?style=for-the-badge)
-![rust](https://img.shields.io/badge/-rust-red?style=for-the-badge)
+![typescript](https://img.shields.io/badge/-typescript-red?style=for-the-badge)
+![solidity](https://img.shields.io/badge/-solidity-red?style=for-the-badge)
 ![php](https://img.shields.io/badge/-php-red?style=for-the-badge)
 ![golang](https://img.shields.io/badge/-golang-red?style=for-the-badge)
 ![LESS](https://img.shields.io/badge/-LESS-red?style=for-the-badge)
