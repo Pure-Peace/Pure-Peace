@@ -3,7 +3,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pure-peace&repo=peace)](https://github.com/pure-peace/peace)
 
 ## 🎉 I'm PurePeace <3
-- #### 🍀 Student
 - #### 🍓 [osu!player](https://osu.ppy.sh/users/5084172) <- Userpage
 
 
