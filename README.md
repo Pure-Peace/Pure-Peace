@@ -54,12 +54,6 @@
 ![postgresql](https://img.shields.io/badge/-postgresql-blueviolet?style=for-the-badge)
 ![redis](https://img.shields.io/badge/-redis-blueviolet?style=for-the-badge)
 
-[![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)](https://github.com/pure-peace/pure-peace)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pure-peace&layout=compact&card_width=445&custom_title=😊%20Used%20Languages&langs_count=10)](https://github.com/pure-peace/pure-peace)
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PurePeace&custom_title=🎲%20Year%20Stats)](https://github.com/pure-peace/pure-peace)
-
 ## 🏆 Profile Trophy
 
 <p align="center">
@@ -67,3 +61,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=pure-peace&row=1&column=7&no-bg=true&margin-w=42"/>
   </a>
 </p>
+
+[![info](https://github-readme-stats.vercel.app/api?username=pure-peace&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)](https://github.com/pure-peace/pure-peace)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pure-peace&layout=compact&card_width=445&custom_title=😊%20Used%20Languages&langs_count=10)](https://github.com/pure-peace/pure-peace)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PurePeace&custom_title=🎲%20Year%20Stats)](https://github.com/pure-peace/pure-peace)
+
+
