@@ -27,6 +27,7 @@
 ![c#](https://img.shields.io/badge/-c%23-inactive?style=for-the-badge)
 ![c++](https://img.shields.io/badge/-c%2B%2B-inactive?style=for-the-badge)
 
+![react.js](https://img.shields.io/badge/-react.js-blue?style=for-the-badge)
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
 ![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 ![nuxt.js](https://img.shields.io/badge/-nuxt.js-blue?style=for-the-badge)
